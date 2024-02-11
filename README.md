@@ -1,4 +1,3 @@
-#Stock Market_Hackfest
 The financial markets exhibit a dynamic interplay of factors contributing to the fluctuation
 of stock prices, characterized by both upward surges and downward plunges. This
 volatility stems from a multitude of variables, including economic indicators, company
